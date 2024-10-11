@@ -23,7 +23,12 @@ class Tabuleiro
 
 class Espaco
 {
-   
+   int posicao;
+}
+
+class Propriedade extends Espaco
+{
+   int[] info;
 }
 
 class Dado
