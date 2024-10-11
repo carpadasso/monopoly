@@ -96,14 +96,14 @@
          "id": 13,
          "descricao": "Parabéns! Você convidou os amigos para festejar o aniversário.",
          "valor": -100,
-         "especial": true
+         "especial": false
       },
 
       {
          "id": 14,
          "descricao": "Você é papai outra vez! Despesas da maternidade.",
          "valor": -100,
-         "especial": true
+         "especial": false
       }
    ]
 }
