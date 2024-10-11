@@ -1,0 +1,422 @@
+{
+   "num_espacos": 40,
+   "espacos": [
+      {
+         "name": "Ponto de Partida",
+         "id": 0,
+         "info": null
+      },
+
+      {
+         "name": "Leblon",
+         "id": 1,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Sorte-Reves",
+         "id": 2,
+         "info": null
+      },
+
+      {
+         "name": "Av. Presidente Vargas",
+         "id": 3,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Av. Nossa S. de Copacabana",
+         "id": 4,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Companhia Ferroviaria",
+         "id": 5,
+         "info": {
+            "preco": 200,
+            "taxa": 50,
+            "hipoteca": 100
+         }
+      },
+
+      {
+         "name": "Av. Brigadeiro Faria Lima",
+         "id": 6,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Companhia de Viacao",
+         "id": 7,
+         "info": {
+            "preco": 200,
+            "taxa": 50,
+            "hipoteca": 100
+         }
+      },
+
+      {
+         "name": "Av. Reboucas",
+         "id": 8,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Av. 9 de Julho",
+         "id": 9,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Prisao",
+         "id": 10,
+         "info": null
+      },
+
+      {
+         "name": "Av. Europa",
+         "id": 11,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Sorte-Reves",
+         "id": 12,
+         "info": null
+      },
+
+      {
+         "name": "Rua Augusta",
+         "id": 13,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Av. Pacaembu",
+         "id": 14,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Companhia de Taxi",
+         "id": 15,
+         "info": {
+            "preco": 150,
+            "taxa": 40,
+            "hipoteca": 75
+         }
+      },
+
+      {
+         "name": "Sorte-Reves",
+         "id": 16,
+         "info": null
+      },
+
+      {
+         "name": "Interlagos",
+         "id": 17,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Lucros ou Dividendos",
+         "id": 18,
+         "info": null
+      },
+
+      {
+         "name": "Morumbi",
+         "id": 19,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Parada Livre",
+         "id": 20,
+         "info": null
+      },
+
+      {
+         "name": "Flamengo",
+         "id": 21,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Sorte-Reves",
+         "id": 22,
+         "info": null
+      },
+
+      {
+         "name": "Botafogo",
+         "id": 23,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Imposto de Renda",
+         "id": 24,
+         "info": null
+      },
+
+      {
+         "name": "Companhia de Navegacao",
+         "id": 25,
+         "info": {
+            "preco": 150,
+            "taxa": 40,
+            "hipoteca": 75
+         }
+      },
+
+      {
+         "name": "Av. Brasil",
+         "id": 26,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Sorte-Reves",
+         "id": 27,
+         "info": null
+      },
+
+      {
+         "name": "Av. Paulista",
+         "id": 28,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Jardim Europa",
+         "id": 29,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Va para a Prisao",
+         "id": 30,
+         "info": null
+      },
+
+      {
+         "name": "Copacabana",
+         "id": 31,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Companhia de Aviacao",
+         "id": 32,
+         "info": {
+            "preco": 200,
+            "taxa": 50,
+            "hipoteca": 100
+         }
+      },
+
+      {
+         "name": "Av. Vieira Souto",
+         "id": 33,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Av. Atlantica",
+         "id": 34,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Companhia de Taxi Aereo",
+         "id": 35,
+         "info": {
+            "preco": 200,
+            "taxa": 50,
+            "hipoteca": 100
+         }
+      },
+
+      {
+         "name": "Ipanema",
+         "id": 36,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Sorte-Reves",
+         "id": 37,
+         "info": null
+      },
+
+      {
+         "name": "Jardim Paulista",
+         "id": 38,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      },
+
+      {
+         "name": "Brooklin",
+         "id": 39,
+         "info": {
+            "preco": 100,
+            "aluguel": 6,
+            "custoC1": 30, "custoC2": 90, "custoC3": 270, "custoC4": 400,
+            "custoH": 500,
+            "casa": 50, "hotel": 50,
+            "hipoteca": 50
+         }
+      }
+   ]
+}

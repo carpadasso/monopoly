@@ -1,0 +1,102 @@
+{
+   "num_cartas": 14,
+   "cartas": [
+      {
+         "id": 0,
+         "descricao": "Saída livre da prisão. (conserve este cartão para quando lhe for preciso ou negocie-o em qualquer ocasião, por preço a combinar)",
+         "valor": 0,
+         "especial": true
+      },
+
+      {
+         "id": 1,
+         "descricao": "A prefeitura mandou abrir uma nova avenida, para isso desapropriou vários prédios. Em consequência, seu terreno valorizou.",
+         "valor": 20,
+         "especial": false
+      },
+
+      {
+         "id": 2,
+         "descricao": "Você jogou na Loteria Esportiva com um grupo de amigos e ganharam!",
+         "valor": 20,
+         "especial": false
+      },
+
+      {
+         "id": 3,
+         "descricao": "Você saiu de férias e se hospedou na casa de um amigo. Você economizou o hotel.",
+         "valor": 45,
+         "especial": false
+      },
+
+      {
+         "id": 4,
+         "descricao": "Você acaba de receber uma parcela do seu 13° salário.",
+         "valor": 50,
+         "especial": false
+      },
+
+      {
+         "id": 5,
+         "descricao": "Você trocou seu carro usado com um amigo e ainda saiu lucrando.",
+         "valor": 50,
+         "especial": false
+      },
+
+      {
+         "id": 6,
+         "descricao": "Você apostou com os parceiros deste jogo e ganhou.",
+         "valor": 50,
+         "especial": true
+      },
+
+      {
+         "id": 7,
+         "descricao": "Um amigo tinha lhe pedido um empréstimo e se esqueceu de devolver. Ele acaba de se lembrar.",
+         "valor": 80,
+         "especial": false
+      },
+
+      {
+         "id": 8,
+         "descricao": "Inesperadamente você recebeu uma herança que já estava esquecida.",
+         "valor": 100,
+         "especial": false
+      },
+
+      {
+         "id": 9,
+         "descricao": "Seu cachorro policial tirou o 1° prêmio na exposição do Kennel Club.",
+         "valor": 100,
+         "especial": false
+      },
+
+      {
+         "id": 10,
+         "descricao": "Você foi promovido a diretor de sua empresa.",
+         "valor": 100,
+         "especial": false
+      },
+
+      {
+         "id": 11,
+         "descricao": "Você tirou o primeiro lugar no Torneio de Tênis do seu clube. Parabéns!",
+         "valor": 100,
+         "especial": false
+      },
+
+      {
+         "id": 12,
+         "descricao": "Houve um assalto à sua loja, mas você estava segurado.",
+         "valor": 100,
+         "especial": false
+      },
+
+      {
+         "id": 13,
+         "descricao": "Avance até o ponte de partida e...",
+         "valor": 150,
+         "especial": true
+      }
+   ]
+}

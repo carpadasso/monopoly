@@ -1,0 +1,109 @@
+{
+   "num_cartas": 15,
+   "cartas": [
+      {
+         "id": 0,
+         "descricao": "Vá para a prisão sem receber nada. (talvez eu lhe faça uma visita...)",
+         "valor": 0,
+         "especial": true
+      },
+
+      {
+         "id": 1,
+         "descricao": "Um amigo lhe pediu um empréstimo. Você não pode recusar.",
+         "valor": -15,
+         "especial": false
+      },
+
+      {
+         "id": 2,
+         "descricao": "Seu clube está ampliando as piscinas. Os sócios deve contribuir.",
+         "valor": -25,
+         "especial": false
+      },
+
+      {
+         "id": 3,
+         "descricao": "Você vai casar e está comprando um novo apartamento.",
+         "valor": -25,
+         "especial": false
+      },
+
+      {
+         "id": 4,
+         "descricao": "Você achou interessante assistir à estreia da temporada de ballet. Compre os ingressos.",
+         "valor": -30,
+         "especial": false
+      },
+
+      {
+         "id": 5,
+         "descricao": "Você estacionou seu carro em lugar proibido e entrou na contra mão.",
+         "valor": -30,
+         "especial": false
+      },
+
+      {
+         "id": 6,
+         "descricao": "Renove a tempo a licença do seu automóvel.",
+         "valor": -30,
+         "especial": false
+      },
+
+      {
+         "id": 7,
+         "descricao": "Papai, os livros do ano passado não servem mais, preciso de livros novos.",
+         "valor": -40,
+         "especial": false
+      },
+
+      {
+         "id": 8,
+         "descricao": "O médico recomendou repouso em um bom hotel.",
+         "valor": -45,
+         "especial": false
+      },
+
+      {
+         "id": 9,
+         "descricao": "Seus parentes do interior vieram passar umas 'férias' na sua casa.",
+         "valor": -45,
+         "especial": false
+      },
+
+      {
+         "id": 10,
+         "descricao": "Você acaba de receber a comunicação do imposto de renda.",
+         "valor": -50,
+         "especial": false
+      },
+
+      {
+         "id": 11,
+         "descricao": "A geada prejudicou sua safra de café.",
+         "valor": -50,
+         "especial": false
+      },
+
+      {
+         "id": 12,
+         "descricao": "Seus filhos já vão para a escola. Pague a primeira mensalidade.",
+         "valor": -50,
+         "especial": false
+      },
+
+      {
+         "id": 13,
+         "descricao": "Parabéns! Você convidou os amigos para festejar o aniversário.",
+         "valor": -100,
+         "especial": true
+      },
+
+      {
+         "id": 14,
+         "descricao": "Você é papai outra vez! Despesas da maternidade.",
+         "valor": -100,
+         "especial": true
+      }
+   ]
+}

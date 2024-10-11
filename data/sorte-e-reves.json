@@ -1,0 +1,207 @@
+{
+   "num_cartas": 29,
+   "cartas": [
+      {
+         "id": 0,
+         "descricao": "Saída livre da prisão. (conserve este cartão para quando lhe for preciso ou negocie-o em qualquer ocasião, por preço a combinar)",
+         "valor": 0,
+         "especial": true
+      },
+
+      {
+         "id": 1,
+         "descricao": "A prefeitura mandou abrir uma nova avenida, para isso desapropriou vários prédios. Em consequência, seu terreno valorizou.",
+         "valor": 20,
+         "especial": false
+      },
+
+      {
+         "id": 2,
+         "descricao": "Você jogou na Loteria Esportiva com um grupo de amigos e ganharam!",
+         "valor": 20,
+         "especial": false
+      },
+
+      {
+         "id": 3,
+         "descricao": "Você saiu de férias e se hospedou na casa de um amigo. Você economizou o hotel.",
+         "valor": 45,
+         "especial": false
+      },
+
+      {
+         "id": 4,
+         "descricao": "Você acaba de receber uma parcela do seu 13° salário.",
+         "valor": 50,
+         "especial": false
+      },
+
+      {
+         "id": 5,
+         "descricao": "Você trocou seu carro usado com um amigo e ainda saiu lucrando.",
+         "valor": 50,
+         "especial": false
+      },
+
+      {
+         "id": 6,
+         "descricao": "Você apostou com os parceiros deste jogo e ganhou.",
+         "valor": 50,
+         "especial": true
+      },
+
+      {
+         "id": 7,
+         "descricao": "Um amigo tinha lhe pedido um empréstimo e se esqueceu de devolver. Ele acaba de se lembrar.",
+         "valor": 80,
+         "especial": false
+      },
+
+      {
+         "id": 8,
+         "descricao": "Inesperadamente você recebeu uma herança que já estava esquecida.",
+         "valor": 100,
+         "especial": false
+      },
+
+      {
+         "id": 9,
+         "descricao": "Seu cachorro policial tirou o 1° prêmio na exposição do Kennel Club.",
+         "valor": 100,
+         "especial": false
+      },
+
+      {
+         "id": 10,
+         "descricao": "Você foi promovido a diretor de sua empresa.",
+         "valor": 100,
+         "especial": false
+      },
+
+      {
+         "id": 11,
+         "descricao": "Você tirou o primeiro lugar no Torneio de Tênis do seu clube. Parabéns!",
+         "valor": 100,
+         "especial": false
+      },
+
+      {
+         "id": 12,
+         "descricao": "Houve um assalto à sua loja, mas você estava segurado.",
+         "valor": 100,
+         "especial": false
+      },
+
+      {
+         "id": 13,
+         "descricao": "Avance até o ponte de partida e...",
+         "valor": 150,
+         "especial": true
+      },
+
+      {
+         "id": 14,
+         "descricao": "Vá para a prisão sem receber nada. (talvez eu lhe faça uma visita...)",
+         "valor": 0,
+         "especial": true
+      },
+
+      {
+         "id": 15,
+         "descricao": "Um amigo lhe pediu um empréstimo. Você não pode recusar.",
+         "valor": -15,
+         "especial": false
+      },
+
+      {
+         "id": 16,
+         "descricao": "Seu clube está ampliando as piscinas. Os sócios deve contribuir.",
+         "valor": -25,
+         "especial": false
+      },
+
+      {
+         "id": 17,
+         "descricao": "Você vai casar e está comprando um novo apartamento.",
+         "valor": -25,
+         "especial": false
+      },
+
+      {
+         "id": 18,
+         "descricao": "Você achou interessante assistir à estreia da temporada de ballet. Compre os ingressos.",
+         "valor": -30,
+         "especial": false
+      },
+
+      {
+         "id": 19,
+         "descricao": "Você estacionou seu carro em lugar proibido e entrou na contra mão.",
+         "valor": -30,
+         "especial": false
+      },
+
+      {
+         "id": 20,
+         "descricao": "Renove a tempo a licença do seu automóvel.",
+         "valor": -30,
+         "especial": false
+      },
+
+      {
+         "id": 21,
+         "descricao": "Papai, os livros do ano passado não servem mais, preciso de livros novos.",
+         "valor": -40,
+         "especial": false
+      },
+
+      {
+         "id": 22,
+         "descricao": "O médico recomendou repouso em um bom hotel.",
+         "valor": -45,
+         "especial": false
+      },
+
+      {
+         "id": 23,
+         "descricao": "Seus parentes do interior vieram passar umas 'férias' na sua casa.",
+         "valor": -45,
+         "especial": false
+      },
+
+      {
+         "id": 24,
+         "descricao": "Você acaba de receber a comunicação do imposto de renda.",
+         "valor": -50,
+         "especial": false
+      },
+
+      {
+         "id": 25,
+         "descricao": "A geada prejudicou sua safra de café.",
+         "valor": -50,
+         "especial": false
+      },
+
+      {
+         "id": 26,
+         "descricao": "Seus filhos já vão para a escola. Pague a primeira mensalidade.",
+         "valor": -50,
+         "especial": false
+      },
+
+      {
+         "id": 27,
+         "descricao": "Parabéns! Você convidou os amigos para festejar o aniversário.",
+         "valor": -100,
+         "especial": false
+      },
+
+      {
+         "id": 28,
+         "descricao": "Você é papai outra vez! Despesas da maternidade.",
+         "valor": -100,
+         "especial": false
+      }
+   ]
+}
